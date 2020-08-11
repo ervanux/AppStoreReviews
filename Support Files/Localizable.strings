@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  AppStoreReviews
+
+  Created by Erkan Ugurlu on 9.08.2020.
+  Copyright © 2020 ING. All rights reserved.
+*/
+
+"top_three_section_title" = "Top three occurring words in the filtered reviews";
+"all_review_section_title" = "All Reviews";
+"filtered_section_title" = "Filtered reviews";
+"rating_title" = "Choose rating to filter";
+"cancel" = "Cancel";
+"all" = "All";
+"connection_problem_title" = "Connection Problem";

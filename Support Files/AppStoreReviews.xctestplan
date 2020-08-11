@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "7FE4FB9C-6B66-4755-848F-DE43E761F446",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:AppStoreReviews.xcodeproj",
+      "identifier" : "345AD11724C6EDD9004E2EE1",
+      "name" : "AppStoreReviews"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:AppStoreReviews.xcodeproj",
+        "identifier" : "04F445FA24DFE0D90021D020",
+        "name" : "AppStoreReviewsTests"
+      }
+    }
+  ],
+  "version" : 1
+}
